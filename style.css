@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    margin: 0;
+    ;
+}
+.icon-menu{
+background-color:rgba(33, 33, 33, 0.98);
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 6px 20px;
+}
+input[type="text"]{
+    padding: 15px 330px 15px 10px;
+    background-color: #717171;  
+    border: none;
+}
+form{
+    display: flex;
+    align-items: center;
+}
+.icon-bar{
+font-size: 25px;
+color: #fff;
+}
+.icon-ytb{
+font-size: 30px;
+padding: 8px 0px 8px 16px;
+color: red;
+}
+.icon-magnify{
+    font-size: 29px;
+    background: #FFFFFF14;
+    color: white;
+    padding: 6px 20px;
+}
+.grid-sign-in{
+display: flex;
+align-items: center;
+}
+.fa-table-cells:before, .fa-th:before {
+    font-size: 20px;
+}
+.fa-ellipsis-vertical:before {
+font-size: 20px;
+}
+.fa-arrow-right-to-bracket:before, .fa-sign-in:before {
+        font-size: 40px;
+}
+.icon-microphone{
+    font-size: 18px;
+    margin-left: 12px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+    background: black;
+}
+.icon-microphone i{
+    padding: 5px;
+}
+.fa-table-cells{
+    padding-right: 20px;
+    color: white;
+}
+.fa-ellipsis-vertical{
+padding-right: 20px;
+}
+
+.you-tube{
+    align-items: center;
+    /* justify-content: center; */
+    display: flex;
+}
+.text-ytb{
+text-decoration: none;
+color: #fff;
+font-size: 23px;
+}
+/* aside-container */
+.first-div{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0px 30px 0px 30px;
+
+}
+.first-div h4{
+    margin: 0;
+}
+.icon-four{
+    border-bottom: 1px solid;
+    color: black;
+    width: 8%;
+    line-height: 2.7rem;
+}
+.four-icons{
+    margin-right: 30px;
+}
